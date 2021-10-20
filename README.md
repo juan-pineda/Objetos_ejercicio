@@ -2,7 +2,7 @@
 
 |  |  |
 |--|--| 
- <img src="https://github.com/juan-pineda/Objetos_ejercicio/blob/main/GLT_Logistics.png" width="200"> |   <img src="./images/GUANE_Logo.png" width="200">
+ <img src="https://github.com/juan-pineda/Objetos_ejercicio/blob/main/GLT_Logistics.png" width="200"> |   <img src="https://github.com/juan-pineda/Objetos_ejercicio/blob/main/GUANE_Logo.png" width="200">
 
 ---
 
